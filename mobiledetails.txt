@@ -1,3 +1,5 @@
 name : samsung galaxy a51
 version : 11.0
 RAM : 4GB
+
+version : 12.0
